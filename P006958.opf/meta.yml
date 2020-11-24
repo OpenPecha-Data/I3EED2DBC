@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W4CZ74520
   title: ཕར་ཕྱིན་གྱི་མཐའ་དཔྱོད།
-  volume: ''
+  volume:
+    997b27ede4134b96bbb9ab1dae21c192:
+      image_group_id: I4CZ74522
+      title: Volume 1 of phar phyin gyi mtha' dpyod/
+      volume_number: 1
+      total_pages: 728
   author: ''
+ebook_metadata:
+  title: ཕར་ཕྱིན་གྱི་མཐའ་དཔྱོད།
+  author: ''
+  sku: P006958
+  cover: cover.jpg
+  layers:
+  - pagination
